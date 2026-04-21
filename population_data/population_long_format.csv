@@ -1,0 +1,273 @@
+State,Year,Sex,Population
+New South Wales,2008,Male,3502936
+New South Wales,2009,Male,3548107
+New South Wales,2010,Male,3585109
+New South Wales,2011,Male,3626400
+New South Wales,2012,Male,3674410
+New South Wales,2013,Male,3724215
+New South Wales,2014,Male,3776574
+New South Wales,2015,Male,3833807
+New South Wales,2016,Male,3896830
+New South Wales,2017,Male,3950763
+New South Wales,2018,Male,3999452
+New South Wales,2019,Male,4030710
+New South Wales,2020,Male,4025393
+New South Wales,2021,Male,4069207
+New South Wales,2022,Male,4158499
+New South Wales,2023,Male,4225966
+New South Wales,2024,Male,4274825
+New South Wales,2008,Female,3550819
+New South Wales,2009,Female,3596185
+New South Wales,2010,Female,3633420
+New South Wales,2011,Female,3677844
+New South Wales,2012,Female,3729622
+New South Wales,2013,Female,3784138
+New South Wales,2014,Female,3839594
+New South Wales,2015,Female,3899051
+New South Wales,2016,Female,3958486
+New South Wales,2017,Female,4003713
+New South Wales,2018,Female,4047296
+New South Wales,2019,Female,4079900
+New South Wales,2020,Female,4071669
+New South Wales,2021,Female,4112891
+New South Wales,2022,Female,4197888
+New South Wales,2023,Female,4266084
+New South Wales,2024,Female,4317699
+Victoria,2008,Male,2663347
+Victoria,2009,Male,2705597
+Victoria,2010,Male,2740959
+Victoria,2011,Male,2796315
+Victoria,2012,Male,2856419
+Victoria,2013,Male,2915277
+Victoria,2014,Male,2977200
+Victoria,2015,Male,3051056
+Victoria,2016,Male,3116504
+Victoria,2017,Male,3178223
+Victoria,2018,Male,3236531
+Victoria,2019,Male,3273674
+Victoria,2020,Male,3237594
+Victoria,2021,Male,3267915
+Victoria,2022,Male,3358839
+Victoria,2023,Male,3432367
+Victoria,2024,Male,3489957
+Victoria,2008,Female,2708587
+Victoria,2009,Female,2755504
+Victoria,2010,Female,2796858
+Victoria,2011,Female,2854776
+Victoria,2012,Female,2916250
+Victoria,2013,Female,2979640
+Victoria,2014,Female,3045122
+Victoria,2015,Female,3122116
+Victoria,2016,Female,3186104
+Victoria,2017,Female,3244815
+Victoria,2018,Female,3300774
+Victoria,2019,Female,3341372
+Victoria,2020,Female,3310228
+Victoria,2021,Female,3347317
+Victoria,2022,Female,3438330
+Victoria,2023,Female,3518594
+Victoria,2024,Female,3583902
+Queensland,2008,Male,2162727
+Queensland,2009,Male,2199403
+Queensland,2010,Male,2233959
+Queensland,2011,Male,2278629
+Queensland,2012,Male,2319267
+Queensland,2013,Male,2349563
+Queensland,2014,Male,2374439
+Queensland,2015,Male,2403173
+Queensland,2016,Male,2443150
+Queensland,2017,Male,2481008
+Queensland,2018,Male,2521333
+Queensland,2019,Male,2558538
+Queensland,2020,Male,2585543
+Queensland,2021,Male,2630783
+Queensland,2022,Male,2699135
+Queensland,2023,Male,2759653
+Queensland,2024,Male,2808163
+Queensland,2008,Female,2166044
+Queensland,2009,Female,2205341
+Queensland,2010,Female,2242819
+Queensland,2011,Female,2290058
+Queensland,2012,Female,2333557
+Queensland,2013,Female,2370090
+Queensland,2014,Female,2403253
+Queensland,2015,Female,2441979
+Queensland,2016,Female,2483230
+Queensland,2017,Female,2525615
+Queensland,2018,Female,2567514
+Queensland,2019,Female,2607075
+Queensland,2020,Female,2630271
+Queensland,2021,Female,2680122
+Queensland,2022,Female,2751100
+Queensland,2023,Female,2812237
+Queensland,2024,Female,2861601
+South Australia,2008,Male,795656
+South Australia,2009,Male,805365
+South Australia,2010,Male,811845
+South Australia,2011,Male,820600
+South Australia,2012,Male,827964
+South Australia,2013,Male,835164
+South Australia,2014,Male,841522
+South Australia,2015,Male,846877
+South Australia,2016,Male,854336
+South Australia,2017,Male,863034
+South Australia,2018,Male,873494
+South Australia,2019,Male,884465
+South Australia,2020,Male,891067
+South Australia,2021,Male,902462
+South Australia,2022,Male,919041
+South Australia,2023,Male,930989
+South Australia,2024,Male,941272
+South Australia,2008,Female,813246
+South Australia,2009,Female,821957
+South Australia,2010,Female,827769
+South Australia,2011,Female,836125
+South Australia,2012,Female,843524
+South Australia,2013,Female,851781
+South Australia,2014,Female,859146
+South Australia,2015,Female,865966
+South Australia,2016,Female,874337
+South Australia,2017,Female,883103
+South Australia,2018,Female,893901
+South Australia,2019,Female,905890
+South Australia,2020,Female,911534
+South Australia,2021,Female,922507
+South Australia,2022,Female,938605
+South Australia,2023,Female,951175
+South Australia,2024,Female,961393
+Western Australia,2008,Male,1129438
+Western Australia,2009,Male,1154064
+Western Australia,2010,Male,1185050
+Western Australia,2011,Male,1223614
+Western Australia,2012,Male,1254322
+Western Australia,2013,Male,1266894
+Western Australia,2014,Male,1276698
+Western Australia,2015,Male,1281968
+Western Australia,2016,Male,1295903
+Western Australia,2017,Male,1310728
+Western Australia,2018,Male,1331167
+Western Australia,2019,Male,1357131
+Western Australia,2020,Male,1376317
+Western Australia,2021,Male,1400045
+Western Australia,2022,Male,1451838
+Western Australia,2023,Male,1497454
+Western Australia,2024,Male,1531884
+Western Australia,2008,Female,1110812
+Western Australia,2009,Female,1136781
+Western Australia,2010,Female,1168359
+Western Australia,2011,Female,1201893
+Western Australia,2012,Female,1232622
+Western Australia,2013,Female,1250714
+Western Australia,2014,Female,1263974
+Western Australia,2015,Female,1274010
+Western Australia,2016,Female,1289817
+Western Australia,2017,Female,1307064
+Western Australia,2018,Female,1328458
+Western Australia,2019,Female,1355781
+Western Australia,2020,Female,1373048
+Western Australia,2021,Female,1393889
+Western Australia,2022,Female,1439098
+Western Australia,2023,Female,1480693
+Western Australia,2024,Female,1512498
+Tasmania,2008,Male,250255
+Tasmania,2009,Male,252953
+Tasmania,2010,Male,254790
+Tasmania,2011,Male,254786
+Tasmania,2012,Male,254724
+Tasmania,2013,Male,255008
+Tasmania,2014,Male,255359
+Tasmania,2015,Male,256213
+Tasmania,2016,Male,260800
+Tasmania,2017,Male,266108
+Tasmania,2018,Male,271197
+Tasmania,2019,Male,275981
+Tasmania,2020,Male,281404
+Tasmania,2021,Male,284142
+Tasmania,2022,Male,284622
+Tasmania,2023,Male,285169
+Tasmania,2024,Male,285671
+Tasmania,2008,Female,254098
+Tasmania,2009,Female,255894
+Tasmania,2010,Female,256693
+Tasmania,2011,Female,256938
+Tasmania,2012,Female,257507
+Tasmania,2013,Female,258613
+Tasmania,2014,Female,259758
+Tasmania,2015,Female,261301
+Tasmania,2016,Female,265962
+Tasmania,2017,Female,271183
+Tasmania,2018,Female,276644
+Tasmania,2019,Female,281597
+Tasmania,2020,Female,285835
+Tasmania,2021,Female,288158
+Tasmania,2022,Female,289109
+Tasmania,2023,Female,289596
+Tasmania,2024,Female,290590
+Northern Territory,2008,Male,118321
+Northern Territory,2009,Male,120516
+Northern Territory,2010,Male,121483
+Northern Territory,2011,Male,123533
+Northern Territory,2012,Male,126835
+Northern Territory,2013,Male,127079
+Northern Territory,2014,Male,127914
+Northern Territory,2015,Male,127676
+Northern Territory,2016,Male,128104
+Northern Territory,2017,Male,127221
+Northern Territory,2018,Male,126289
+Northern Territory,2019,Male,126013
+Northern Territory,2020,Male,126166
+Northern Territory,2021,Male,129134
+Northern Territory,2022,Male,131882
+Northern Territory,2023,Male,133947
+Northern Territory,2024,Male,136264
+Northern Territory,2008,Female,107706
+Northern Territory,2009,Female,109262
+Northern Territory,2010,Female,109809
+Northern Territory,2011,Female,112382
+Northern Territory,2012,Female,114887
+Northern Territory,2013,Female,115815
+Northern Territory,2014,Female,116778
+Northern Territory,2015,Female,118002
+Northern Territory,2016,Female,119308
+Northern Territory,2017,Female,119874
+Northern Territory,2018,Female,120270
+Northern Territory,2019,Female,121415
+Northern Territory,2020,Female,121985
+Northern Territory,2021,Female,123966
+Northern Territory,2022,Female,125626
+Northern Territory,2023,Female,126937
+Northern Territory,2024,Female,128292
+Australian Capital Territory,2008,Male,176325
+Australian Capital Territory,2009,Male,179860
+Australian Capital Territory,2010,Male,182996
+Australian Capital Territory,2011,Male,187156
+Australian Capital Territory,2012,Male,190367
+Australian Capital Territory,2013,Male,192913
+Australian Capital Territory,2014,Male,196237
+Australian Capital Territory,2015,Male,199780
+Australian Capital Territory,2016,Male,205448
+Australian Capital Territory,2017,Male,210616
+Australian Capital Territory,2018,Male,215222
+Australian Capital Territory,2019,Male,219576
+Australian Capital Territory,2020,Male,223361
+Australian Capital Territory,2021,Male,227934
+Australian Capital Territory,2022,Male,232641
+Australian Capital Territory,2023,Male,235484
+Australian Capital Territory,2024,Male,237604
+Australian Capital Territory,2008,Female,178460
+Australian Capital Territory,2009,Female,181906
+Australian Capital Territory,2010,Female,184989
+Australian Capital Territory,2011,Female,189383
+Australian Capital Territory,2012,Female,192890
+Australian Capital Territory,2013,Female,195886
+Australian Capital Territory,2014,Female,199576
+Australian Capital Territory,2015,Female,203324
+Australian Capital Territory,2016,Female,209598
+Australian Capital Territory,2017,Female,215465
+Australian Capital Territory,2018,Female,220508
+Australian Capital Territory,2019,Female,225327
+Australian Capital Territory,2020,Female,229147
+Australian Capital Territory,2021,Female,233328
+Australian Capital Territory,2022,Female,238699
+Australian Capital Territory,2023,Female,242946
+Australian Capital Territory,2024,Female,247026

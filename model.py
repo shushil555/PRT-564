@@ -7,6 +7,7 @@ from sklearn.ensemble import RandomForestRegressor
 
 # Load preprocessed data
 df = pd.read_csv("./preprocessed_data.csv")
+population_data = pd.read_csv("./population_data/population_long_format.csv")
 print("Shape:", df.shape)
 print(df.head(5))
 
@@ -15,6 +16,9 @@ df = df[df["Sex"] != "Unknown"]
 
 # Sort by group for feature engineering
 df = df.sort_values(["Offence", "State", "Sex", "Year"]).reset_index(drop=True)
+df = df.merge(population_data, on=["State", "Year", "Sex"], how="left")
+
+print("Shape after merging with population data:", df.shape)
 
 # Feature engineering: create lag and rolling features
 group_cols = ["Offence", "State", "Sex"]
@@ -52,7 +56,7 @@ df["State_mean_rate_lag1"] = df.groupby(group_cols)["State_mean_rate"].shift(1)
 df["Rate_next"] = df.groupby(group_cols)["Rate"].shift(-1)
 
 # Drop rows where lags or target are missing
-required_cols = ["Rate_lag1", "Rate_lag2", "Rate_lag3", "Rate_roll3", 
+required_cols = ["Population", "Rate_lag1", "Rate_lag2", "Rate_lag3", "Rate_roll3", 
                  "Rate_next", "State_mean_rate_lag1", "Rate_trend1", "Rate_trend2", "Rate_pct_chg1"]
 df = df.dropna(subset=required_cols)
 print("\nShape after feature engineering:", df.shape)
@@ -64,7 +68,7 @@ cat_cols    = encoder.get_feature_names_out(["Offence", "State", "Sex"])
 
 features_df = pd.DataFrame(cat_encoded, columns=cat_cols, index=df.index)
 
-NUMERIC_FEATURES = ["Year", "Rate_lag1", "Rate_lag2", "Rate_lag3", "Rate_roll3", 
+NUMERIC_FEATURES = ["Year", "Population", "Rate_lag1", "Rate_lag2", "Rate_lag3", "Rate_roll3", 
                     "State_mean_rate_lag1", "Rate_trend1", "Rate_trend2", "Rate_pct_chg1"]
 X = pd.concat([df[NUMERIC_FEATURES], features_df], axis=1)
 y = df["Rate_next"]
