@@ -1,0 +1,273 @@
+State,Year,Sex,Unemployment_Rate
+New South Wales,2008,Male,6.4009033
+New South Wales,2009,Male,5.282651
+New South Wales,2010,Male,4.8936778
+New South Wales,2011,Male,5.1013034
+New South Wales,2012,Male,5.0995515
+New South Wales,2013,Male,5.6723852
+New South Wales,2014,Male,5.2055734
+New South Wales,2015,Male,4.607739
+New South Wales,2016,Male,4.8237292
+New South Wales,2017,Male,4.7487829
+New South Wales,2018,Male,4.3002531
+New South Wales,2019,Male,6.6081782
+New South Wales,2020,Male,5.6319988
+New South Wales,2021,Male,3.4315691
+New South Wales,2022,Male,3.1321205
+New South Wales,2023,Male,3.9417068
+New South Wales,2024,Male,4.2933567
+New South Wales,2008,Female,6.2821986
+New South Wales,2009,Female,4.9479756
+New South Wales,2010,Female,5.4875214
+New South Wales,2011,Female,5.0786901
+New South Wales,2012,Female,5.5397188
+New South Wales,2013,Female,5.537256
+New South Wales,2014,Female,6.1095654
+New South Wales,2015,Female,5.5166291
+New South Wales,2016,Female,4.5691823
+New South Wales,2017,Female,4.3703038
+New South Wales,2018,Female,4.8526539
+New South Wales,2019,Female,6.6588835
+New South Wales,2020,Female,4.415042
+New South Wales,2021,Female,3.2400478
+New South Wales,2022,Female,2.645618
+New South Wales,2023,Female,3.7382156
+New South Wales,2024,Female,4.3732082
+Victoria,2008,Male,6.5242564
+Victoria,2009,Male,5.1119415
+Victoria,2010,Male,4.1424541
+Victoria,2011,Male,4.7641126
+Victoria,2012,Male,5.8520645
+Victoria,2013,Male,6.2719842
+Victoria,2014,Male,5.2152781
+Victoria,2015,Male,4.8543137
+Victoria,2016,Male,5.3324878
+Victoria,2017,Male,5.3698531
+Victoria,2018,Male,4.3892952
+Victoria,2019,Male,6.7455005
+Victoria,2020,Male,3.8808979
+Victoria,2021,Male,2.8754065
+Victoria,2022,Male,3.6908808
+Victoria,2023,Male,4.0052064
+Victoria,2024,Male,4.7765644
+Victoria,2008,Female,5.1370761
+Victoria,2009,Female,5.4850779
+Victoria,2010,Female,4.8397164
+Victoria,2011,Female,5.8891344
+Victoria,2012,Female,5.3749329
+Victoria,2013,Female,6.270678
+Victoria,2014,Female,6.3320703
+Victoria,2015,Female,6.029572
+Victoria,2016,Female,5.9885256
+Victoria,2017,Female,5.2079463
+Victoria,2018,Female,4.8066019
+Victoria,2019,Female,7.4855268
+Victoria,2020,Female,4.7995895
+Victoria,2021,Female,3.4193082
+Victoria,2022,Female,3.3013059
+Victoria,2023,Female,4.5641259
+Victoria,2024,Female,3.7991575
+Queensland,2008,Male,5.8987392
+Queensland,2009,Male,4.9186994
+Queensland,2010,Male,4.6197962
+Queensland,2011,Male,4.7180064
+Queensland,2012,Male,6.4299058
+Queensland,2013,Male,5.9535296
+Queensland,2014,Male,6.5802271
+Queensland,2015,Male,6.3897096
+Queensland,2016,Male,6.2666631
+Queensland,2017,Male,5.7577912
+Queensland,2018,Male,6.2736356
+Queensland,2019,Male,8.2899436
+Queensland,2020,Male,5.4012341
+Queensland,2021,Male,4.1258223
+Queensland,2022,Male,3.3674758
+Queensland,2023,Male,4.1156941
+Queensland,2024,Male,4.2622768
+Queensland,2008,Female,4.8509117
+Queensland,2009,Female,5.3681729
+Queensland,2010,Female,5.551238
+Queensland,2011,Female,5.3957413
+Queensland,2012,Female,5.8014747
+Queensland,2013,Female,6.3975245
+Queensland,2014,Female,5.0511314
+Queensland,2015,Female,6.1138955
+Queensland,2016,Female,6.2592089
+Queensland,2017,Female,5.9008691
+Queensland,2018,Female,6.3234903
+Queensland,2019,Female,7.2827985
+Queensland,2020,Female,4.8906467
+Queensland,2021,Female,3.7123289
+Queensland,2022,Female,4.0082068
+Queensland,2023,Female,3.4664289
+Queensland,2024,Female,3.6780471
+South Australia,2008,Male,5.6533412
+South Australia,2009,Male,4.9679666
+South Australia,2010,Male,4.9551629
+South Australia,2011,Male,6.0412512
+South Australia,2012,Male,5.6269063
+South Australia,2013,Male,7.5022301
+South Australia,2014,Male,9.0999289
+South Australia,2015,Male,7.1270334
+South Australia,2016,Male,5.6654311
+South Australia,2017,Male,5.9360555
+South Australia,2018,Male,6.3426897
+South Australia,2019,Male,8.2377819
+South Australia,2020,Male,5.7049058
+South Australia,2021,Male,5.1200234
+South Australia,2022,Male,4.3843789
+South Australia,2023,Male,3.8365757
+South Australia,2024,Male,4.8099339
+South Australia,2008,Female,4.575907
+South Australia,2009,Female,5.1974884
+South Australia,2010,Female,4.3825065
+South Australia,2011,Female,5.8008935
+South Australia,2012,Female,5.4910017
+South Australia,2013,Female,5.9322156
+South Australia,2014,Female,6.569888
+South Australia,2015,Female,6.8413706
+South Australia,2016,Female,7.1549557
+South Australia,2017,Female,4.6583728
+South Australia,2018,Female,5.2745578
+South Australia,2019,Female,8.5254209
+South Australia,2020,Female,4.6390212
+South Australia,2021,Female,3.336433
+South Australia,2022,Female,3.7147481
+South Australia,2023,Female,3.6942154
+South Australia,2024,Female,3.7894286
+Western Australia,2008,Male,5.3575634
+Western Australia,2009,Male,3.7026925
+Western Australia,2010,Male,4.4311745
+Western Australia,2011,Male,2.5215911
+Western Australia,2012,Male,4.5448626
+Western Australia,2013,Male,4.9065049
+Western Australia,2014,Male,6.0136624
+Western Australia,2015,Male,5.2135328
+Western Australia,2016,Male,5.2884753
+Western Australia,2017,Male,6.1744469
+Western Australia,2018,Male,5.5303674
+Western Australia,2019,Male,7.8046047
+Western Australia,2020,Male,5.288236
+Western Australia,2021,Male,3.4662848
+Western Australia,2022,Male,3.7349813
+Western Australia,2023,Male,3.529873
+Western Australia,2024,Male,4.2137015
+Western Australia,2008,Female,5.4952786
+Western Australia,2009,Female,4.5601262
+Western Australia,2010,Female,3.9919524
+Western Australia,2011,Female,4.6750343
+Western Australia,2012,Female,4.5940625
+Western Australia,2013,Female,4.9255461
+Western Australia,2014,Female,5.4438392
+Western Australia,2015,Female,5.9843253
+Western Australia,2016,Female,5.534101
+Western Australia,2017,Female,5.0567327
+Western Australia,2018,Female,4.9762583
+Western Australia,2019,Female,8.1032506
+Western Australia,2020,Female,4.3509353
+Western Australia,2021,Female,3.1928499
+Western Australia,2022,Female,3.3363762
+Western Australia,2023,Female,3.8717549
+Western Australia,2024,Female,3.8897061
+Tasmania,2008,Male,4.3810562
+Tasmania,2009,Male,7.2593277
+Tasmania,2010,Male,4.9483928
+Tasmania,2011,Male,7.8081573
+Tasmania,2012,Male,8.7267447
+Tasmania,2013,Male,7.3569079
+Tasmania,2014,Male,6.8634123
+Tasmania,2015,Male,6.6253695
+Tasmania,2016,Male,5.6833239
+Tasmania,2017,Male,5.9868413
+Tasmania,2018,Male,6.5148862
+Tasmania,2019,Male,7.2548083
+Tasmania,2020,Male,4.2102799
+Tasmania,2021,Male,4.9312893
+Tasmania,2022,Male,3.3215672
+Tasmania,2023,Male,4.3152796
+Tasmania,2024,Male,4.2564618
+Tasmania,2008,Female,3.9046622
+Tasmania,2009,Female,4.5657467
+Tasmania,2010,Female,5.1307343
+Tasmania,2011,Female,5.9401883
+Tasmania,2012,Female,8.6074728
+Tasmania,2013,Female,7.102541
+Tasmania,2014,Female,5.935023
+Tasmania,2015,Female,6.4450407
+Tasmania,2016,Female,5.1048487
+Tasmania,2017,Female,5.272408
+Tasmania,2018,Female,6.9134868
+Tasmania,2019,Female,6.4138019
+Tasmania,2020,Female,5.2491031
+Tasmania,2021,Female,3.7393591
+Tasmania,2022,Female,3.8433143
+Tasmania,2023,Female,2.9010925
+Tasmania,2024,Female,2.9638286
+Northern Territory,2008,Male,3.9713265
+Northern Territory,2009,Male,2.6866308
+Northern Territory,2010,Male,3.5601385
+Northern Territory,2011,Male,4.6330168
+Northern Territory,2012,Male,5.6590977
+Northern Territory,2013,Male,4.9997867
+Northern Territory,2014,Male,4.5055406
+Northern Territory,2015,Male,4.4792191
+Northern Territory,2016,Male,5.3770803
+Northern Territory,2017,Male,5.7810305
+Northern Territory,2018,Male,6.4408352
+Northern Territory,2019,Male,6.5337311
+Northern Territory,2020,Male,6.463872
+Northern Territory,2021,Male,4.3007204
+Northern Territory,2022,Male,3.9344366
+Northern Territory,2023,Male,5.1391717
+Northern Territory,2024,Male,4.2124362
+Northern Territory,2008,Female,2.8831408
+Northern Territory,2009,Female,2.7856802
+Northern Territory,2010,Female,3.2586971
+Northern Territory,2011,Female,3.9575905
+Northern Territory,2012,Female,6.0911047
+Northern Territory,2013,Female,5.183463
+Northern Territory,2014,Female,5.0341186
+Northern Territory,2015,Female,2.5843177
+Northern Territory,2016,Female,4.8787204
+Northern Territory,2017,Female,5.6009976
+Northern Territory,2018,Female,5.2772551
+Northern Territory,2019,Female,7.7351516
+Northern Territory,2020,Female,5.9943806
+Northern Territory,2021,Female,5.0956751
+Northern Territory,2022,Female,4.2461497
+Northern Territory,2023,Female,4.1217734
+Northern Territory,2024,Female,3.519355
+Australian Capital Territory,2008,Male,3.8610174
+Australian Capital Territory,2009,Male,3.2114581
+Australian Capital Territory,2010,Male,4.318961
+Australian Capital Territory,2011,Male,3.8862407
+Australian Capital Territory,2012,Male,3.3727623
+Australian Capital Territory,2013,Male,2.35304
+Australian Capital Territory,2014,Male,3.5082945
+Australian Capital Territory,2015,Male,3.2151496
+Australian Capital Territory,2016,Male,5.0908121
+Australian Capital Territory,2017,Male,2.6452581
+Australian Capital Territory,2018,Male,2.6224654
+Australian Capital Territory,2019,Male,4.7657404
+Australian Capital Territory,2020,Male,4.6921371
+Australian Capital Territory,2021,Male,2.8800708
+Australian Capital Territory,2022,Male,4.0342627
+Australian Capital Territory,2023,Male,2.8167732
+Australian Capital Territory,2024,Male,3.0939558
+Australian Capital Territory,2008,Female,3.3282885
+Australian Capital Territory,2009,Female,3.2178541
+Australian Capital Territory,2010,Female,3.8304864
+Australian Capital Territory,2011,Female,3.7497273
+Australian Capital Territory,2012,Female,3.9433725
+Australian Capital Territory,2013,Female,4.4418512
+Australian Capital Territory,2014,Female,3.7044365
+Australian Capital Territory,2015,Female,2.9245131
+Australian Capital Territory,2016,Female,4.4722636
+Australian Capital Territory,2017,Female,4.0883776
+Australian Capital Territory,2018,Female,2.4824224
+Australian Capital Territory,2019,Female,3.7736615
+Australian Capital Territory,2020,Female,4.1586158
+Australian Capital Territory,2021,Female,3.0539812
+Australian Capital Territory,2022,Female,3.0625114
+Australian Capital Territory,2023,Female,2.6128434
+Australian Capital Territory,2024,Female,3.47649

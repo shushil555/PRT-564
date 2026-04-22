@@ -75,4 +75,7 @@ print(f"Cleaned dataset shape: {df.shape}")
 
 df.to_csv("preprocessed_data.csv", index=False)
 
+print("First 20 rows after cleaning:")
+print(df.head(20))
+
 print("Dataset cleaned successfully!")
